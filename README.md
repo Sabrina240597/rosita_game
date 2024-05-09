@@ -1,4 +1,4 @@
 # rosita VS michi_game
-Este proyecto consiste en crear un juego de disparos (Space Shooter) usando PyGame . La nave defensora es Rosita 🐕(mascota) , la nave atacante es Michi 🐈 (mascota) , los disparos son huesos y el fondo el espacio 
+El objetivo de este proyecto es desarrollar un juego interactivo de tipo 'Space Shooter' utilizando el framework PyGame en el lenguaje de programación Python. En este juego, el jugador controla una nave defensora, representada por el personaje de una mascota llamada 'Rosita 🐕', mientras se enfrenta a naves enemigas, representadas por el personaje de otra mascota llamada 'Michi 🐈'. Los disparos en el juego están representados por huesos lanzados desde la nave defensora.
 
-Se pueden personalizar las imágenes y los tamaños de cada uno de los 4 elementos mencionados y la velocidad de los elementos en movimiento (naves y disparos).
+El escenario de fondo del juego simula el espacio sideral para proporcionar una ambientación adecuada. Se ofrece la capacidad de personalizar las imágenes y los tamaños de los cuatro elementos principales del juego: las naves defensoras y enemigas, los disparos y el fondo espacial. Además, se proporciona la flexibilidad de ajustar la velocidad de los elementos en movimiento, lo que permite adaptar la experiencia de juego según las preferencias del usuario.
