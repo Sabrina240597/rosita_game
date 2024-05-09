@@ -12,3 +12,6 @@ El objetivo de este proyecto es desarrollar un juego interactivo de tipo 'Space 
 
 
 El escenario de fondo del juego simula el espacio sideral para proporcionar una ambientación adecuada. Se ofrece la capacidad de personalizar las imágenes y los tamaños de los cuatro elementos principales del juego: las naves defensoras y enemigas, los disparos y el fondo espacial. Además, se proporciona la flexibilidad de ajustar la velocidad de los elementos en movimiento, lo que permite adaptar la experiencia de juego según las preferencias del usuario.
+
+A continuación, presento una muestra del juego
+![Captura de pantalla 2024-05-09 123817](https://github.com/Sabrina240597/rosita_game/assets/134304861/93a6d6af-f675-4a9c-97b4-9853912f2b4c)
